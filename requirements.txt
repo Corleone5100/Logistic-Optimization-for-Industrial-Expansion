@@ -1,0 +1,7 @@
+gamspy==0.12.2
+pandas
+numpy
+matplotlib
+geopy==2.4.1
+
+
